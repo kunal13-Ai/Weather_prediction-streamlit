@@ -44,8 +44,5 @@ if st.button("Predict Rain Tomorrow"):
 
     st.write("Prediction output:", prediction[0])
 
-# ----------------------------
-# Debug (optional)
-# ----------------------------
 with st.expander("Show input data"):
     st.write(input_data)
