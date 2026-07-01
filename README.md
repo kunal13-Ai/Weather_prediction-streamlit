@@ -27,7 +27,7 @@ weather-streamlit/
 │── requirements.txt
 │── README.md
 
-
+ 
 ## Installation
 
 
